@@ -5,7 +5,7 @@
 		"target": "es6",
 		"moduleResolution": "node",
 		"paths": {
-			"$components/*": ["src/components/*"]
+			"@components/*": ["src/components/*"]
 		}
 	},
 	"include": ["src/**/*"]

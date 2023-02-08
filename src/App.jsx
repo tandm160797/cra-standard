@@ -1,4 +1,4 @@
-import { Welcome } from '$components';
+import { Welcome } from '@components';
 
 const App = () => (
 	<div>
