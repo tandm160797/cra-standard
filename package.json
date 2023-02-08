@@ -44,9 +44,7 @@
 		"test": "react-app-rewired test",
 		"prepare": "husky install",
 		"lint": "eslint --fix \"src/**/*.{js,jsx}\"",
-		"pretty": "prettier --write \"src/**/*.{js,jsx}\"",
-		"predeploy": "yarn run build",
-		"deploy": "gh-pages -d build"
+		"pretty": "prettier --write \"src/**/*.{js,jsx}\""
 	},
 	"husky": {
 		"hooks": {
