@@ -50,8 +50,8 @@
 	},
 	"lint-staged": {
 		"src/**/*.{js,jsx}": [
-			"yarn pretty",
-			"yarn lint"
+			"yarn lint",
+			"yarn pretty"
 		]
 	},
 	"engines": {
